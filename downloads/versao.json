@@ -1,0 +1,20 @@
+{
+  "app": "Mundinho do Vivi • Teste",
+  "versionName": "0.6.2-teste",
+  "versionCode": 8,
+  "package": "com.mundodedescobertas.app.debug",
+  "apk": "Mundinho-do-Vivi-0.6.2-teste.apk",
+  "sha256": "feecf7b7f9d12069d8b22b116a6a5a6eb6b186b04953cd80e5407e2c6bac70a0",
+  "sizeBytes": 87503155,
+  "signerCertificateSha256": "adf061fa20f87d3897c643a7bc0766fab899767f9f639a9d53ba57a2e8dd571c",
+  "sourceBase": "https://github.com/BBPACHECO/mundinho-do-vivi_v4/commit/321710f8026fc1d73b3d578dc2eaf9843d9f6d51",
+  "sourceChanges": "app-build-version.patch",
+  "validation": {
+    "localTestsPassed": 73,
+    "localTestsFailed": 0,
+    "localTestsSkipped": 0,
+    "lintErrors": 0,
+    "devicePlaybackVerified": false
+  },
+  "updatesFamilyEdition": false
+}
